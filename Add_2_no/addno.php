@@ -18,7 +18,7 @@
            $name1= $_POST['first'];
            $name2=$_POST['second'];
            $result=$name1+$name2;
-           echo "The sum of two numbers is $result";
+           echo "The sum of two number is $result";
         }
         ?>
    
